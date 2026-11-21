@@ -1,0 +1,12 @@
+.env
+data/chroma/
+data/graph.json
+__pycache__/
+node_modules/
+.venv/
+.env.*
+!.env.example
+data/uploads/
+frontend/dist/
+*.log
+.pytest_cache/

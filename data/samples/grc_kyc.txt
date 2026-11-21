@@ -1,0 +1,5 @@
+RBI Master Direction on Know Your Customer (KYC)
+
+Section 1: Regulated entities must complete customer due diligence (KYC) before establishing an account relationship. If officially valid documents of the customer cannot be verified, the bank shall not open the account and must file a suspicious transaction report with FIU-IND under the Prevention of Money Laundering Act (PMLA).
+
+Section 2 - Penalties: The Reserve Bank of India may impose monetary penalties on regulated entities for KYC non-compliance. Controls must map to Section 12 of PMLA record-keeping obligations.

@@ -1,0 +1,14 @@
+body{margin:0;font-family:system-ui,sans-serif;background:#f6f7f9;color:#1a2233}
+header{background:#111827;color:#fff;padding:12px 24px;border-bottom:3px solid #d93954}
+nav{display:flex;gap:4px;background:#fff;padding:0 16px;border-bottom:1px solid #ddd}
+nav button{border:0;background:none;padding:12px 16px;cursor:pointer;font-size:14px;border-bottom:3px solid transparent}
+nav button.on{border-color:#d93954;font-weight:600}
+main{padding:20px 24px}.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+.card{background:#fff;border:1px solid #e3e6ea;border-radius:6px;padding:14px}
+.msg{white-space:pre-wrap;margin:8px 0;padding:10px;border-radius:6px}.u{background:#e8f0fe}.a{background:#fff;border:1px solid #e3e6ea}
+.cite{font-size:12px;color:#555;border-left:3px solid #d93954;padding-left:8px;margin:4px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.kpi b{font-size:26px;display:block}table{border-collapse:collapse;width:100%;background:#fff}
+td,th{border:1px solid #e3e6ea;padding:8px;text-align:left;font-size:13px}th{background:#111827;color:#fff}
+.drop{border:2px dashed #aab;padding:18px;text-align:center;border-radius:6px;background:#fff}
+input[type=text]{flex:1;min-width:300px;padding:8px}button.pri{background:#d93954;color:#fff;border:0;padding:8px 16px;border-radius:4px;cursor:pointer}

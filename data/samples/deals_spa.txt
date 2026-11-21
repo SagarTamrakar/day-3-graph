@@ -1,0 +1,5 @@
+Share Purchase Agreement - Key Clauses
+
+Clause 8.1 Material Adverse Change: If a material adverse change occurs between signing and closing, the Buyer may terminate the SPA. Upon such termination the Seller's indemnity obligations under Clause 10 remain in force.
+
+Clause 10.2 Indemnities: The Seller shall indemnify the Buyer for losses arising from breach of warranties, capped at 20% of the purchase price, with a basket threshold of INR 5 crore. Foreign investment is subject to FEMA pricing guidelines.

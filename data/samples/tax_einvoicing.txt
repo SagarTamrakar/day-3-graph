@@ -1,0 +1,7 @@
+CBIC Circular on E-Invoicing Threshold
+
+Section 194C of the Income Tax Act requires TDS at 2% on payments to a company contractor and 1% to an individual or HUF contractor. The Income Tax Dept (CBDT) administers this provision.
+
+Section 1 - E-Invoicing: The Central Board of Indirect Taxes and Customs (CBIC) amended the e-invoicing threshold for businesses with aggregate turnover above the notified limit. Rule 48(4) of the CGST Rules mandates e-invoice generation through the Invoice Registration Portal.
+
+Section 2 - Penalty: Non-compliance with e-invoicing attracts a penalty under Section 122 of the CGST Act. The GST Council recommended the threshold revision at its 57th meeting.
